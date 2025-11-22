@@ -1,12 +1,12 @@
-# 不要做挑战 (English version follows)
+# 不要做挑战
 
 这是一个Paper插件，它提供了一个名为《不要做挑战》的游戏的功能。
 
 ## 快速开始
 
-- 下载最新的release中的 `DontDoIt-1.21.8-1.0.3.jar`
+- 下载最新的release中的 `DontDoIt-1.21.10-1.0.3.jar`
 
-  服务器端版本为 paper 1.21.8, 将插件放到`./plugins/`目录下。
+  服务器端版本为 paper 1.21.10, 将插件放到`./plugins/`目录下。
 
   配置文件会在启动时自动生成，可以不下载。
 
